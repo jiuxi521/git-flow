@@ -7,6 +7,6 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("123");
-        System.out.println("develop new code commit");
+        System.out.println("daily new code commit");
     }
 }
